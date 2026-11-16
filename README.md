@@ -13,7 +13,7 @@
 * **تأثير تحسين الخصومات (What-If Analysis):** أظهرت المحاكاة أن تقليل نسب الخصم الحالية بنسبة 10% يرفع صافي الأرباح بشكل ملحوظ في جميع المناطق، خاصة في منطقتي الغرب (West) والشرق (East).
 
 ## 🔗 رابط لوحة المعلومات التفاعلية (Live Dashboard)
-* [اضغط هنا لتجربة اللوحة التفاعلية على Tableau Public](https://public.tableau.com:9443/views/SuperstoreSalesProfitability_17948322083570/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [اضغط هنا لتجربة اللوحة التفاعلية على Tableau Public](https://tableau.com)
 
 ## 📸 معاينة لوحة المعلومات (Dashboard Preview)
 ![Dashboard Preview](dashboard.PNG)
